@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EdisonTT
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Blockchain
+- 🌱 MEAN STACK Dev
 - 📫 How to reach me via [LinkedIn](https://www.linkedin.com/in/edison-t-t/)
 
 <!---
