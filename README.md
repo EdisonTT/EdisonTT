@@ -1,6 +1,6 @@
 # Edison T T
 Thrissur, Kerala, India  
-edison.thomas795@gmail.com | +91 9961211127  
+edisontt0107@gmail.com | +91 8075714434  
 LinkedIn: [linkedin.com/in/edison-t-t](https://linkedin.com/in/edison-t-t) | GitHub: [github.com/EdisonTT](https://github.com/EdisonTT)  
 Date of Birth: 01/07/1998 | Nationality: Indian  
 
