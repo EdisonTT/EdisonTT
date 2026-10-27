@@ -1,4 +1,5 @@
 # Edison T T
+
 Thrissur, Kerala, India  
 edisontt0107@gmail.com | +91 8075714434  
 LinkedIn: [linkedin.com/in/edison-t-t](https://linkedin.com/in/edison-t-t) | GitHub: [github.com/EdisonTT](https://github.com/EdisonTT)  
@@ -8,7 +9,7 @@ Date of Birth: 01/07/1998 | Nationality: Indian
 
 ## PROFILE SUMMARY
 
-Senior Software Engineer with 5+ years of experience building scalable web applications and backend services. Currently focused on integrating Generative AI into real-world systems, including AI-assisted features, embedding-based retrieval systems, and modern application workflows.
+Senior Software Engineer and Technical Lead with 5+ years of experience building scalable web applications and backend services. Currently focused on integrating Generative AI into real-world systems, including AI-assisted features, embedding-based retrieval systems, and modern application workflows.
 
 Experienced in Angular, Node.js, and REST APIs, with growing expertise in cloud platforms (Azure), container networking, and Kubernetes. Passionate about enhancing existing applications with AI capabilities and building systems that leverage AI effectively rather than developing models from scratch.
 
@@ -36,20 +37,31 @@ Experienced in Angular, Node.js, and REST APIs, with growing expertise in cloud 
 
 ## PROFESSIONAL EXPERIENCE
 
-### Ernst & Young (EY) – Kochi, India  
-**Senior Software Engineer** | July 2024 – Present  
+### Ernst & Young (EY) – Kochi, India
 
-* Leading the development of enterprise-grade SPAs using Angular 20, ensuring maintainable and scalable codebases  
-* Architecting component structures and state management strategies to improve development efficiency  
-* Mentoring junior developers in Angular best practices, improving team delivery quality 
+**Technical Lead** | Sep 2026 – Present  
+
+* Leading the technical direction and development of enterprise-grade Single Page Applications (SPAs) using Angular and modern frontend engineering practices  
+* Defining scalable application architecture, component design, state management strategies, and reusable UI patterns to improve maintainability and consistency  
+* Driving technical decision-making, conducting design and code reviews, and establishing development standards and best practices across the team  
+* Mentoring developers and providing technical guidance on Angular, TypeScript, frontend architecture, performance optimization, and engineering practices  
+* Collaborating with product, backend, QA, and other stakeholders to translate business requirements into practical technical solutions and drive end-to-end delivery  
+* Identifying opportunities for modernization, automation, and AI-assisted development to improve engineering productivity and application capabilities  
+
+**Senior Software Engineer** | July 2024 – Sep 2026  
+
+* Led the development of enterprise-grade SPAs using Angular 20, ensuring maintainable and scalable codebases  
+* Architected component structures and state management strategies to improve development efficiency  
+* Mentored junior developers in Angular best practices, improving team delivery quality  
 * Built proof-of-concept integrations to enable legacy applications to work with Generative AI systems using Model Context Protocol (MCP)  
 * Developed a FAQ chatbot using embedding-based retrieval with Hugging Face model (all-MiniLM-L6-v2)  
-* Implemented functionality to convert dynamic HTML dashboards into downloadable PDF reports 
-* Recognized as **“Achiever Extraordinaire”** twice for outstanding performance and contributions   
+* Implemented functionality to convert dynamic HTML dashboards into downloadable PDF reports  
+* Recognized as **“Achiever Extraordinaire”** twice for outstanding performance and contributions  
 
 ---
 
-### Tata Consultancy Services Ltd. (TCS) – Kochi, India  
+### Tata Consultancy Services Ltd. (TCS) – Kochi, India
+
 **Full-Stack Developer** | Aug 2021 – Jun 2024  
 
 * Developed and maintained Single Page Applications using Angular aligned with client UX requirements  
@@ -64,10 +76,12 @@ Experienced in Angular, Node.js, and REST APIs, with growing expertise in cloud 
 ## ADDITIONAL EXPERIENCE
 
 **Freelance Mathematics Tutor** | Thrissur, India | 2018 – 2021  
+
 * Taught Mathematics to Grade 11 & 12 students with improved academic outcomes  
 * Developed structured problem-solving approaches and learning materials  
 
 **Freelance Math Expert – Photomath** | Remote | 2020 – 2023  
+
 * Solved advanced mathematics problems for a global audience  
 * Earned approximately $10,000 with consistent high-quality contributions  
 * Maintained 100% client satisfaction  
